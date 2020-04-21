@@ -5,6 +5,7 @@ exports.run = (client, message, params) => {
 
   message.delete();
   message.channel.send("https://discord.gg/7WjkHMb");
+ }
 };
 
 exports.conf = {
